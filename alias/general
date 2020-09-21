@@ -57,6 +57,7 @@ alias sc='shellcheck -s bash'
 alias showhosts='rg --context 2 HostName ~/.ssh/config'
 alias wttr='curl wttr.in/Leipzig'
 alias ytdl='youtube-dl'
+alias gen='cd ~/workspace/genesis'
 
 # cd .. multiple times
 function cd_up() {
