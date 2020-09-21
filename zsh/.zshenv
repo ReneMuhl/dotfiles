@@ -10,6 +10,8 @@ export VISUAL=vim
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
+# genesis 
+export CDPATH=~/workspace/genesis
 
 # find binaries in other directories
 export PATH=$HOME/bin:/usr/local/bin:$PATH
